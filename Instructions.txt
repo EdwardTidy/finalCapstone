@@ -1,0 +1,6 @@
+This is the Bookstore Database Organiser
+
+This program helps independent bookstore owners upload their inventory, helping to collate all of this information in one easily accessible location
+
+Download root.py, functions.py and data folder (will be empty to start, then database will be generated in it) Run root.py to use the bookstore program
+
